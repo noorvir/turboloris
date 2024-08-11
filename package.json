@@ -1,0 +1,17 @@
+{
+  "name": "yotai",
+  "module": "index.ts",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {}
+}
