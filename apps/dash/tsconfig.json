@@ -20,7 +20,8 @@
     "paths": {
       "@/*": ["./src/*"],
       "@yotai/ui": ["../../packages/ui/src"],
-      "@yotai/db": ["../../packages/db/src"]
+      "@yotai/db": ["../../packages/db/src"],
+      "@yotai/utils": ["../../packages/utils/src"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
