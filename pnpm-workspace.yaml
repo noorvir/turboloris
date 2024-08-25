@@ -1,0 +1,4 @@
+packages:
+  - "apps/dash"
+  - "apps/api"
+  - "packages/*"
