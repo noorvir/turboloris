@@ -38,7 +38,8 @@ The Yotai API lets the user interact
 
 ### Stack
 
-- Postgres (Supabase)
+- DB - Postgres (Supabase)
+- Background jobs - Postgres (pg-boss)
 - Sqlite (Cloudflare D1)
 - Deno (Deno sub-hosting for running user-defined code)
 - Nextjs (Main webapp)
@@ -46,5 +47,4 @@ The Yotai API lets the user interact
 - Kysely (query builder)
 - Notifications (novu)
 - Codemirror (code editor)
-- Inngest background jobs
 - OpenPanel

@@ -16,6 +16,7 @@
     "react-dom": "^18.2.0",
     "@yotai/db": "workspace:*",
     "@yotai/ui": "workspace:*",
+    "@yotai/jobs": "workspace:*",
     "@yotai/utils": "workspace:*"
   },
   "devDependencies": {
